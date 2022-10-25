@@ -7,7 +7,7 @@ O intuito é realizar ajustes na tentativa de transformá-la em uma API RESTFul!
 Utilize como referência o documento "Design da API Restful" disponibilizado.
 
 '''
-dsadada
+sdada dsad adassda
 import sqlite3
 from sqlite3 import Error
 from flask import Flask, request, jsonify
