@@ -1,7 +1,5 @@
 '''
 
-Este código é uma API para "produtos", entretanto apenas alguns conceitos
-de REST são implementados.
 
 O intuito é realizar ajustes na tentativa de transformá-la em uma API RESTFul!
 Utilize como referência o documento "Design da API Restful" disponibilizado.
