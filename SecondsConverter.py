@@ -1,3 +1,6 @@
+# Program that receives a number of days, hours and minutes
+# and converts the entered values \u200b ​​to seconds
+
 days = int(input("Days: "))
 hours = int(input("Hours: "))
 minutes = int(input("Minutess: "))
