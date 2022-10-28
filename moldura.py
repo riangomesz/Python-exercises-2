@@ -1,3 +1,6 @@
+# Código que recebe os valores da base da altura 
+# Depois o programa faz o desenho da moldura com os valor declarados
+
 def valor_por_omissao(valor):
     if valor=='':
         return int(1)
