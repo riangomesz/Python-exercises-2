@@ -1,5 +1,5 @@
 # Programa que calcula o valor a ser pago pelo cliente
-
+# Baseando-se nos km pecorridos e no número de dias que ele foi utilizado
 
 
 
