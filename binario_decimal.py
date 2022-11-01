@@ -1,4 +1,4 @@
-
+# Programa que recebe um número binário digitado pelo usuário 
 
 binario = int(input("Digite o número (binário) para ser convertido para a base decimal: "))
 n = len(str(binario))
