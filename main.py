@@ -10,8 +10,7 @@
 # Consumo médio (km/l): 8
 # Postos de Gasolina (km): [2, 15, 22, 10.2]
 
-def ultima_parada(combustivel,consumo,postos_de_gasolina):
-    pass
+
     
 
     postos_de_gasolina = [2,10.2,15,22]
