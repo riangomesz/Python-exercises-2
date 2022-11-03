@@ -1,7 +1,6 @@
 # Programa que recebe valores informados pelos utilizadores e retorna
 # O maior e o menor valor da lista e também o array das vendas
 
-
 maior = 0
 menor = 0
 vendas = []
