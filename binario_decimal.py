@@ -1,6 +1,5 @@
 # Código que recebe um valor binário, depois transforma-o em uma valor decimal
 
-
 binario = 1011010100 
 
 n = len(str(binario))
