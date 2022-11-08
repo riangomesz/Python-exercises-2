@@ -1,3 +1,9 @@
+# Você e seu time estão desenvolvendo um sistema de indicações de postos de gasolina que ficam próximos da 
+# localização atual do veículo. No modo de direção “viagem”, a funcionalidade a ser desenvolvida é de indicar ao 
+# condutor o posto mais distante possível dentro do limite atual de combustível. E caso não exista posto de gasolina, retornar -1
+
+
+
 def ultima_parada(combustivel,consumo,postos_de_gasolina):
     pass
     
