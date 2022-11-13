@@ -1,6 +1,6 @@
 # Programa que recebe os km percorridos e dias que o carro ficou alugado pelo cliente
 # E depois retorna o valor em reais do aluguel do carro
-
+$$$$$$$$$$$$$$$$
 
 
 
