@@ -1,3 +1,4 @@
+# Classe criada em Python para realizar calculos
 # Função tudo que retorna valor
 # Metodo é aquilo que não retorna
 
